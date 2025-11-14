@@ -46,3 +46,14 @@ p {
   width: 800px;
   margin: auto;
 }
+
+.parentDiv {
+  background-color: orange;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin: 10px;
+  flex-direction: row;
+  border-radius: 10px;
+  padding: 5px;
+}
